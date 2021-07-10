@@ -1,6 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Getting Started with ViteJS, Ionic Framework Beta v6 And VueJS
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+This template should help get you started developing with Ionic, Vue 3 and Typescript in Vite.
 
 ## Recommended IDE Setup
 
