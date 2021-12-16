@@ -1,9 +1,9 @@
 # Getting Started with ViteJS, Ionic Framework Beta v6 And VueJS
 
---
-- updated to v6 official release
+----
+- **updated to v6 official release, see this branch**
 https://github.com/aaronksaunders/ionicv6-beta-vue-vite-project-1/tree/v6-official
---
+----
 
 - This template should help get you started developing with Ionic, Vue 3 and Typescript in Vite.
 - See more information in this blog post - https://dev.to/aaronksaunders/getting-started-with-vitejs-ionic-framework-beta-v6-and-vuejs-2o8l
