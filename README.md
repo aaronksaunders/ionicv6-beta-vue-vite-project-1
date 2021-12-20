@@ -1,4 +1,4 @@
-# Getting Started with ViteJS, Ionic Framework Beta v6 And VueJS
+# Getting Started with ViteJS, Ionic Framework v6 And VueJS
 
 ----
 - **updated to v6 official release, see this branch**
