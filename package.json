@@ -6,17 +6,17 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@ionic/vue": "^6.0.0-beta.1",
-    "@ionic/vue-router": "^6.0.0-beta.1",
-    "vue": "3.0.11",
-    "vue-router": "^4.0.10"
+    "@ionic/vue": "^6.0.1",
+    "@ionic/vue-router": "^6.0.1",
+    "vue": "^3.2.21",
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@types/node": "^16.3.1",
-    "@vitejs/plugin-vue": "^1.2.4",
     "@vue/compiler-sfc": "3.0.11",
-    "typescript": "^4.3.2",
-    "vite": "^2.4.0",
-    "vue-tsc": "^0.0.24"
+    "@vitejs/plugin-vue": "^2.0.0",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2",
+    "vue-tsc": "^0.29.8"
   }
 }
